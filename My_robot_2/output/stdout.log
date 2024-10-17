@@ -1,0 +1,7 @@
+
+Collecting tasks from: tasks.py
+=================== Running: [96morder_robots_from_RobotSpareBin[0m ===================
+Table(columns=['Order number', 'Head', 'Body', 'Legs', 'Address'], rows=20)
+[96morder_robots_from_RobotSpareBin[0m status: PASS
+================================================================================
+Robocorp Log (html): c:\Users\SiddharthLohapatre\OneDrive - nexler\RPA\My_robot_2\output\log.html
